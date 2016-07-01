@@ -1,0 +1,5 @@
+[11:22:55] [Info] [JDAAudioManager]: Audio System successfully setup!
+[11:22:55] [Info] [JDA]: JDA starting...
+[11:22:56] [Info] [JDA]: Login Successful!
+[11:22:57] [Info] [JDASocket]: Connected to WebSocket
+[11:22:58] [Info] [JDA]: Finished Loading!
